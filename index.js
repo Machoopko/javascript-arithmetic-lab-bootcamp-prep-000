@@ -25,7 +25,7 @@ function dec(n){
 
 
   function makeInt (n, 10){
-  makeInt.toString(n);
+    return makeInt.toString(n);
 }
 
 function preserveDecimal (n) {
